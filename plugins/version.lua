@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'Bumper Bot '.. VERSION .. [[ 
+  return 'Telegram Bot '.. VERSION .. [[ Bumper
 http://s7.picofile.com/file/8234722668/Bumper
 
 
